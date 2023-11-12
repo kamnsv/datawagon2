@@ -11,3 +11,7 @@
 ## Датасет
 
 ![Dataset_datawagon2.drawio.png](Dataset_datawagon2.drawio.png).
+
+## Нейронная сеть
+
+![model.png](model.png).
